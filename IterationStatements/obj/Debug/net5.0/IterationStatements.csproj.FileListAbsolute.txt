@@ -1,0 +1,16 @@
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.exe
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.deps.json
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.json
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.runtimeconfig.dev.json
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.dll
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\amori\repos\IterationStatements\IterationStatements\bin\Debug\net5.0\IterationStatements.pdb
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.AssemblyReference.cache
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.AssemblyInfo.cs
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.dll
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\ref\IterationStatements.dll
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.pdb
+C:\Users\amori\repos\IterationStatements\IterationStatements\obj\Debug\net5.0\IterationStatements.genruntimeconfig.cache
